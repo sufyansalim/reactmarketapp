@@ -1,6 +1,6 @@
 # React Market
 
->Ecommerce App in Next Js $ Mern Stack for UI, React Materialize Css is used.
+>Ecommerce App in Next Js & Mern Stack. For UI React Materialize Css is used.
 
 # Usage
 
