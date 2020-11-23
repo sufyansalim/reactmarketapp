@@ -21,4 +21,5 @@ npm run dev
 
 ```
 
-- Version 1.0.0
+- NextJs 9.3.2
+- Some Dependencies maybe deprecated.
